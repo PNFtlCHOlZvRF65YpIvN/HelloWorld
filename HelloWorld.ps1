@@ -3,3 +3,6 @@
 
 Clear-Host
 Write-Host "Hello World"
+
+# Testing another change
+Write-Host "Second change to see how well source control works on GitHub"
