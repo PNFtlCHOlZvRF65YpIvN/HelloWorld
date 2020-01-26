@@ -4,4 +4,5 @@
 Clear-Host
 
 $name = Read-Host -Prompt "`nWhat is your name"
-Write-Output ("`n" + $name + "says, Hello World!"
+Write-Output ("`n" + $name + " says, Hello World!`n")
+
